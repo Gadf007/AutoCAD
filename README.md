@@ -1,2 +1,4 @@
 # AutoCAD
-Repository for AutoCAD automation tools basically based on .NET 
+In this repository you can find the automation tools for AutoCAD that are basically based on .NET.
+
+
